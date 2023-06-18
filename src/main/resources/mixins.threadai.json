@@ -1,0 +1,8 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "com.mystic.threadai.mixin",
+    "refmap": "refmap.threadai.json",
+    "mixins": ["EntityMixin"],
+    "client": [],
+    "server": []
+}

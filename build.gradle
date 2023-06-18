@@ -5,7 +5,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'net.minecraftforge.gradle:ForgeGradle:3.+'
+        classpath 'net.minecraftforge.gradle:ForgeGradle:6.+'
         classpath 'org.spongepowered:mixingradle:0.7-SNAPSHOT'
     }
 }
