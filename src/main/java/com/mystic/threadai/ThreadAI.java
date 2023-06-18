@@ -8,6 +8,7 @@ public class ThreadAI {
     public static final String MOD_ID = "threadai";
 
     @Mod.EventHandler
-    public void onPreInit(FMLPreInitializationEvent event) ();
+    public void onPreInit(FMLPreInitializationEvent event) {
+
     }
 }
